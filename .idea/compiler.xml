@@ -9,6 +9,7 @@
         <module name="eureka-client" />
         <module name="eureka-server" />
         <module name="service-ribbon" />
+        <module name="sevice-feign" />
       </profile>
     </annotationProcessing>
   </component>
